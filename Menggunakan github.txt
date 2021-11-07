@@ -1,3 +1,5 @@
--belajar apa itu github
+
 -belajar memahami isi github
 -belajar memperbarui github
+-mempraktekan github
+-belajar login di github
